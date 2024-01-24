@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayanksrivastavarfc
-- 👀 I’m the domain architect in Data & Aanlytics Cluster in FrieslandCampina
+- 👀 I’m the Director Architecture and Engineering in FrieslandCampina
 - 🌱 I’m currently learning FullStack Development both in Data and Application
 - 💞️ I’m looking to collaborate on Data & Analytics
 - 📫 How to reach me ? Contact me on mayank.srivastava@frieslandcampina.com
